@@ -1,0 +1,182 @@
+[
+  {
+    "stage": 0,
+    "chapter": 1,
+    "title": "沉土墓园",
+    "subtitle": "第1区 · 搜索墓园",
+    "note": "爷爷的旧账本：‘墓园下面有东西在挖土。若你看见红色的心脏，千万别把它带回牧场。’\n\n墓穴通道通向沼泽。",
+    "theme": "grave",
+    "interior": false,
+    "entry": [
+      90,
+      630
+    ],
+    "exit": [
+      1160,
+      620
+    ],
+    "note_point": [
+      640,
+      570
+    ],
+    "heart": [
+      980,
+      210
+    ],
+    "props": [],
+    "collisions": [],
+    "enemy_count": 3,
+    "enemy_kind": 0,
+    "reward": 2400
+  },
+  {
+    "stage": 1,
+    "chapter": 2,
+    "title": "腐水浅滩",
+    "subtitle": "第2区 · 穿过沼泽",
+    "note": "摆渡人的字条：‘水里的骨头会跟着船底走。礼拜堂的人知道这种东西从哪里来。’\n\n找到通往山谷的路。",
+    "theme": "swamp",
+    "interior": false,
+    "entry": [
+      90,
+      630
+    ],
+    "exit": [
+      1160,
+      620
+    ],
+    "note_point": [
+      830,
+      570
+    ],
+    "heart": [
+      980,
+      210
+    ],
+    "props": [],
+    "collisions": [],
+    "enemy_count": 4,
+    "enemy_kind": 1,
+    "reward": 3200
+  },
+  {
+    "stage": 2,
+    "chapter": 3,
+    "title": "山谷礼拜堂",
+    "subtitle": "第3区 · 搜查旧礼拜堂",
+    "note": "牧师的记录：爷爷曾把矿井里挖出的寄生虫核心带回镇上。教堂敲钟后，死去的动物开始活动。\n\n峡谷里的旧矿车还能运行。",
+    "theme": "chapel",
+    "interior": true,
+    "entry": [
+      90,
+      630
+    ],
+    "exit": [
+      1160,
+      620
+    ],
+    "note_point": [
+      640,
+      555
+    ],
+    "heart": [
+      980,
+      210
+    ],
+    "props": [],
+    "collisions": [],
+    "enemy_count": 4,
+    "enemy_kind": 2,
+    "reward": 4200
+  },
+  {
+    "stage": 3,
+    "chapter": 4,
+    "title": "断脊峡谷",
+    "subtitle": "第4区 · 沿矿车轨道前进",
+    "note": "矿工留言：‘升降机下面有一条旧矿道。我们把炸药留在实验温室，别靠近红色的根。’\n\n去温室找炸药。",
+    "theme": "canyon",
+    "interior": false,
+    "entry": [
+      90,
+      630
+    ],
+    "exit": [
+      1160,
+      620
+    ],
+    "note_point": [
+      640,
+      570
+    ],
+    "heart": [
+      980,
+      210
+    ],
+    "props": [],
+    "collisions": [],
+    "enemy_count": 4,
+    "enemy_kind": 3,
+    "reward": 5600
+  },
+  {
+    "stage": 4,
+    "chapter": 5,
+    "title": "研究温室",
+    "subtitle": "第5区 · 取回八根炸药",
+    "note": "实验记录：八根雷管可以摧毁矿井深处的寄生虫之心。核心会保护守门怪物，先清掉它，再点燃炸药。\n\n炸药已找到，进入矿井。",
+    "theme": "greenhouse",
+    "interior": false,
+    "entry": [
+      90,
+      630
+    ],
+    "exit": [
+      1160,
+      620
+    ],
+    "note_point": [
+      640,
+      570
+    ],
+    "heart": [
+      980,
+      210
+    ],
+    "props": [],
+    "collisions": [],
+    "enemy_count": 5,
+    "enemy_kind": 4,
+    "reward": 7200
+  },
+  {
+    "stage": 5,
+    "chapter": 6,
+    "title": "寄生虫矿井",
+    "subtitle": "第6区 · 摧毁寄生虫之心",
+    "note": "爷爷最后的字条：‘我以为能控制它。我错了。把核心毁掉，别让它再回到地面。’\n\n击败守门怪物，然后靠近核心安装炸药。",
+    "theme": "mine",
+    "interior": false,
+    "entry": [
+      90,
+      630
+    ],
+    "exit": [
+      1150,
+      150
+    ],
+    "note_point": [
+      640,
+      430
+    ],
+    "heart": [
+      950,
+      205
+    ],
+    "props": [],
+    "collisions": [],
+    "enemy_count": 5,
+    "enemy_kind": 5,
+    "reward": 10000
+  }
+]
